@@ -1,0 +1,42 @@
+
+.body{
+    background-color: black;
+}
+
+.show-image {
+   
+    height: 400px;
+    width: 400px;
+    object-fit: contain;
+    background-image: url("https://cdn2.thecatapi.com/v1/images/search");
+}
+.image-container {
+   margin-left: 750px;
+}
+
+.cats {
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    margin-top: 50px;
+}
+.random_cats {
+    width: 40%;
+}
+
+img {
+    max-width: 700px;
+    height: 30rem;
+}
+
+.btn{
+    font-size: 50px;
+    color: black;
+    background-color: white;
+    border-radius: 30px;
+    border-style: solid;
+    border-color: white;
+    margin-left: 770px;
+    margin-top: 50px;
+    
+}
